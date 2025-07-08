@@ -1,1 +1,1 @@
-# spotykach-firmware
+# Spotykach Firmware
