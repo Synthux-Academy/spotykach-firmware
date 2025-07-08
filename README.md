@@ -1,4 +1,4 @@
-# Spotykach Firmware
+# Changelog
 
 ### v0.0.18
 - the preinstalled firmware of the July release
