@@ -1,5 +1,5 @@
 # Spotykach Firmware
 
 ### v0.0.18
-- split calibration
-- no user facing changes
+- the preinstalled firmware of the July release
+- no user facing changes comparing to previous version
