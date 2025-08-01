@@ -8,8 +8,8 @@
 - stereo/mono switch.
   - in the stereo mode input A serves as L, input B - as R. The inputs are shared between decks. Deck outputs are then mixed through a crossfader and sent to the out A/B (L/R respectively).
   - in mono mode input A is dedidcated to deck A and B - to B. Same with outputs. Please note that if input B is not plugged in, input A works for both A and B.
-- no freezing
-- slice mode tweaks. The default slice is now 1/8th.
+- overall spotykach is more stable
+- eslice mode tweaks. The default slice is now 1/8th.
 - higher LFO frequency (up to 12Hz)
 - sequencer works properly with reel mode
 - reverse works without skipping parts of the loop
