@@ -7,11 +7,11 @@
   - modulation in drift mode is applied continuously in contrast to slice mode, where modulation is applied at the beginning of a slice.
 - stereo/mono switch.
   - in the stereo mode input A serves as L, input B - as R. The inputs are shared between decks. Deck outputs are then mixed through a crossfader and sent to the out A/B (L/R respectively).
-  - in mono mode input A is dedidcated to deck A and B - to B. Same with outputs. Please note that if input B is not plugged in, input A works for both A and B.
-- overall spotykach is more stable
+  - in mono mode input A is dedidcated to deck A and B - to B. Same with outputs. Please note that if input B is not plugged in, input A works for both A and B. Crossfader is disengaged in this mode.
+- Spotykach become more stable overall
 - slice mode tweaks. The default slice is now 1/8th.
 - higher LFO frequency (up to 12Hz)
-- sequencer works properly with reel mode
+- sequencer works properly with the reel mode
 - reverse works without skipping parts of the loop
 - I/O mix and crossfader ranges adjusted so there should be no leaks anymore   
 
