@@ -1,7 +1,7 @@
 # Changelog
 
 ### v0.0.20
-This tiny hot fix should eliminate probability of loud sound bursts in drift mode.
+A tiny hot fix that should eliminate probability of loud sound bursts in drift mode.
 
 ### v0.0.19
 - drift mode
