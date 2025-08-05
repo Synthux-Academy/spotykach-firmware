@@ -1,5 +1,8 @@
 # Changelog
 
+### v0.0.20
+This tiny hot fix should eliminate probability of loud sound bursts in drift mode.
+
 ### v0.0.19
 - drift mode
   - in this mode the deck plays three loops shifted, different in size and layered on one another.
