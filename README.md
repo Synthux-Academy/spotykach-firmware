@@ -1,5 +1,8 @@
 # Changelog
 
+### v0.0.21
+This one changes the way recording is stopped and fixes the issue that could cause pop / burst of noise at the end of the loop.
+
 ### v0.0.20
 A tiny hot fix that should eliminate probability of loud sound bursts in drift mode.
 
