@@ -1,5 +1,8 @@
 # Changelog
 
+### v0.0.22
+Fixes the issue with recording introduced in the previous version.
+
 ### v0.0.21
 This one changes the way recording is stopped and fixes the issue that could cause pop / burst of noise at the end of the loop.
 
