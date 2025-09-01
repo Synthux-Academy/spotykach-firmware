@@ -1,5 +1,11 @@
 # Changelog
 
+### v0.0.23
+- envelope follower
+- speed and mix knobs remember their values
+- crossfader works in split-mono mode
+- prevent leaks of the old recordings when buffer wraps around
+
 ### v0.0.22
 Fixes the issue with recording introduced in the previous version.
 
