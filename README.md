@@ -1,5 +1,11 @@
 # Changelog
 
+### v0.0.24
+- FXs
+- Updated LEDs
+- Continuous modulation in real mode
+- Various tweaks and bug fixes
+
 ### v0.0.23
 - envelope follower
 - speed and mix knobs remember their values
