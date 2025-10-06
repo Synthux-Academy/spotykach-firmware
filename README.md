@@ -1,5 +1,11 @@
 # Changelog
 
+### v0.0.25
+- fixed random metronome
+- no "tremolo" in reel mode
+- position modulation works in slice mode
+- LED feedback improvements
+
 ### v0.0.24
 - FXs
 - Updated LEDs
