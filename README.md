@@ -1,5 +1,12 @@
 # Changelog
 
+### v0.0.26
+- prevent tremolo upon cable insertion
+- fixed size change in slice mode
+- fixed time stretching
+- limited minimum slice length in slice mode to 1/16th
+- LED tweaks
+
 ### v0.0.25
 - fixed random metronome
 - no "tremolo" in reel mode
