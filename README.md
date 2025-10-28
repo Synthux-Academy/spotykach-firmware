@@ -9,7 +9,6 @@
 - pitch tweaks
   - `Alt`+`Pitch` snaps to +- fifth, +- 1 octave, +- 2 octaves
   - LED feedback on snapping pitch
-  - extended threshold around 0 on V/Oct to compensate calibration deviations
 - fixed / improved size calculation in slice mode
 - fixed reverse in slice mode
 - removed stopping on changing the pitch in slice mode
