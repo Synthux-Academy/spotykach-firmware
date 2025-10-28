@@ -1,5 +1,19 @@
 # Changelog
 
+### v0.0.27
+- new overdub behavior
+  - non-destructive, i.e. doesn't print back the playback output
+  - feedback is now working on dB scale (-60...0dB)
+  - works in slice mode
+  - stop overdub on tapping `Play`
+- pitch tweaks
+  - `Alt`+`Pitch` snaps to +- fifth, +- 1 octave, +- 2 octaves
+  - LED feedback on snapping pitch
+  - extended threshold around 0 on V/Oct to compensate calibration deviations
+- fixed / improved size calculation in slice mode
+- fixed reverse in slice mode
+- removed stopping on changing the pitch in slice mode
+
 ### v0.0.26
 - prevent tremolo upon cable insertion
 - fixed size change in slice mode
