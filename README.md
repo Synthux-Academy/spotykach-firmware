@@ -1,5 +1,15 @@
 # Changelog
 
+### v0.0.28
+- bipolar CV
+- doesn't restart the loop on finishing overdub
+- quantized pitch remains intact after FX adjustment
+- reduced fade in/out
+- overlaps record start/stop
+- shows playhead on trigger also when deck is stopped
+- ignores gate-in during new recording
+- tweaked envelope
+
 ### v0.0.27
 - new overdub behavior
   - non-destructive, i.e. doesn't print back the playback output
