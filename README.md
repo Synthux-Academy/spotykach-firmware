@@ -1,6 +1,9 @@
 # Changelog
 
-### v0.0.28
+### v0.0.28RC+FX
+- new FX!
+
+### v0.0.28RC
 - bipolar CV
 - doesn't restart the loop on finishing overdub
 - quantized pitch remains intact after FX adjustment
