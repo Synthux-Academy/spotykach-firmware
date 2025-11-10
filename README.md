@@ -1,5 +1,9 @@
 # Changelog
 
+### v0.0.28RC2
+- fixes the issue that caused Spotykach to go out of sync with external clock
+- based on 0.0.28RC
+
 ### v0.0.28RC+FX
 - new FX!
 
