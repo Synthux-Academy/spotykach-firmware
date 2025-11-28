@@ -1,5 +1,12 @@
 # Changelog
 
+### v0.0.29alpha2
+ - grain distribution modulation
+ - position modulation is now drawn on the ring
+ - default grain size of 100ms, the range changed to 60...500ms
+ - tuned touch sensor
+ - fixed possible reason for random pops
+
 ### v0.0.29alpha
 - new 3rd mode
 - pitch is applied constantly
