@@ -5,9 +5,9 @@
 - alt+size in slice mode switches mono-/poly.
   - before noon -> mono
   - after noon -> poly
-- swapped controls
+- swapped controls in drift mode
   - alt+envelope -> envelope length (before was on alt+size)
-  - alt+size -> window size/dencity (before was on alt+envelope)
+  - alt+size -> window size/density (before was on alt+envelope)
 
 ### v0.0.29alpha2
  - grain distribution modulation
