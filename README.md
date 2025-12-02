@@ -1,5 +1,14 @@
 # Changelog
 
+### v0.0.29beta1
+- gate out. works as a trigger on loop start, sequence, sequence pad tap
+- alt+size in slice mode switches mono-/poly.
+  - before noon -> mono
+  - after noon -> poly
+- swapped controls
+  - alt+envelope -> envelope length (before was on alt+size)
+  - alt+size -> window size/dencity (before was on alt+envelope)
+
 ### v0.0.29alpha2
  - grain distribution modulation
  - position modulation is now drawn on the ring
