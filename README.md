@@ -1,5 +1,8 @@
 # Changelog
 
+### v0.0.29beta2
+- updated LEDs behavior
+
 ### v0.0.29beta1
 - gate out. works as a trigger on loop start, sequence, sequence pad tap
 - alt+size in slice mode switches mono-/poly.
