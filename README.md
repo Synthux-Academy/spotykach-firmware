@@ -1,5 +1,8 @@
 # Changelog
 
+### v0.0.29beta2hotfix
+- fixed FX leds
+
 ### v0.0.29beta2
 - updated LEDs behavior
 
