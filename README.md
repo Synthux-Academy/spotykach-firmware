@@ -1,60 +1,65 @@
 # Changelog
 
+### v0.0.29RC
+- recording now always starts from zero, effectively overwriting the buffer.
+- fixed deviation indicator on pitch.
+- adjusted LED brightness.
+
 ### v0.0.29beta2hotfix
-- fixed FX leds
+- fixed FX leds.
 
 ### v0.0.29beta2
-- updated LEDs behavior
+- updated LEDs behavior.
 
 ### v0.0.29beta1
-- gate out. works as a trigger on loop start, sequence, sequence pad tap
-- alt+size in slice mode switches mono-/poly.
+- gate out. works as a trigger on loop start, sequence, sequence pad tap.
+- alt+size in slice mode switches mono-/poly:
   - before noon -> mono
   - after noon -> poly
-- swapped controls in drift mode
-  - alt+envelope -> envelope length (before was on alt+size)
-  - alt+size -> window size/density (before was on alt+envelope)
+- swapped controls in drift mode:
+  - alt+envelope -> envelope length (before was on alt+size).
+  - alt+size -> window size/density (before was on alt+envelope).
 
 ### v0.0.29alpha2
- - grain distribution modulation
- - position modulation is now drawn on the ring
- - default grain size of 100ms, the range changed to 60...500ms
- - tuned touch sensor
- - fixed possible reason for random pops
+ - grain distribution modulation.
+ - position modulation is now drawn on the ring.
+ - default grain size of 100ms, the range changed to 60...500ms.
+ - tuned touch sensor.
+ - fixed possible reason for random pops.
 
 ### v0.0.29alpha
-- new 3rd mode
-- pitch is applied constantly
+- new 3rd mode.
+- pitch is applied constantly.
 
 ### v0.0.28RC2
-- fixes the issue that caused Spotykach to go out of sync with external clock
-- based on 0.0.28RC
+- fixes the issue that caused Spotykach to go out of sync with external clock.
+- based on 0.0.28RC.
 
 ### v0.0.28RC+FX
 - new FX!
 
 ### v0.0.28RC
-- bipolar CV
-- doesn't restart the loop on finishing overdub
-- quantized pitch remains intact after FX adjustment
-- reduced fade in/out
-- overlaps record start/stop
-- shows playhead on trigger also when deck is stopped
-- ignores gate-in during new recording
-- tweaked envelope
+- bipolar CV.
+- doesn't restart the loop on finishing overdub.
+- quantized pitch remains intact after FX adjustment.
+- reduced fade in/out.
+- overlaps record start/stop.
+- shows playhead on trigger also when deck is stopped.
+- ignores gate-in during new recording.
+- tweaked envelope.
 
 ### v0.0.27
-- new overdub behavior
-  - non-destructive, i.e. doesn't print back the playback output
-  - feedback is now working on dB scale (-60...0dB)
-  - works in slice mode
-  - stop overdub on tapping `Play`
-- pitch tweaks
-  - `Alt`+`Pitch` snaps to +- fifth, +- 1 octave, +- 2 octaves
-  - LED feedback on snapping pitch
-- fixed / improved size calculation in slice mode
-- fixed reverse in slice mode
-- removed stopping on changing the pitch in slice mode
+- new overdub behavior:
+  - non-destructive, i.e. doesn't print back the playback output.
+  - feedback is now working on dB scale (-60...0dB).
+  - works in slice mode.
+  - stop overdub on tapping `Play`.
+- pitch tweaks:
+  - `Alt`+`Pitch` snaps to +- fifth, +- 1 octave, +- 2 octaves.
+  - LED feedback on snapping pitch.
+- fixed / improved size calculation in slice mode.
+- fixed reverse in slice mode.
+- removed stopping on changing the pitch in slice mode.
 
 ### v0.0.26
 - prevent tremolo upon cable insertion
