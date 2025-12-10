@@ -4,6 +4,7 @@
 - recording now always starts from zero, effectively overwriting the buffer.
 - fixed deviation indicator on pitch.
 - adjusted LED brightness.
+- fixed switching between modes.
 
 ### v0.0.29beta2hotfix
 - fixed FX leds.
