@@ -1,5 +1,13 @@
 # Changelog
 
+### v0.0.30alpha
+- once the buffer is full, the deck goes to the overdub mode.
+- v/oct in slice mode is applied on trigger.
+- sequencer can record melodies.
+- tweaked mono/poly indication in slice mode
+- tweaked size knob behavior in drift mode 
+
+
 ### v0.0.29RC
 - recording now always starts from zero, effectively overwriting the buffer.
 - fixed deviation indicator on pitch.
