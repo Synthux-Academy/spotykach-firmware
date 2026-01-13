@@ -1,5 +1,11 @@
 # Changelog
 
+### v0.0.30alpha2
+- basic SD card saving/loading
+- fixed clock restart after switching external -> internal
+- fixed gate in so the gate out of the other deck is recognized
+- limited max pitch in drift mode to 24 (performance trade-off)
+
 ### v0.0.30alpha
 - once the buffer is full, the deck goes to the overdub mode.
 - v/oct in slice mode is applied on trigger.
