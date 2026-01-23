@@ -1,5 +1,9 @@
 # Changelog
 
+### v0.0.30 alpha3
+- SD card navigation
+- fixed playback volume
+
 ### v0.0.30alpha2
 - basic SD card saving/loading
 - fixed clock restart after switching external -> internal
