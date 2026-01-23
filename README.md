@@ -1,5 +1,8 @@
 # Changelog
 
+### v0.0.30alpha4
+- fixed loading of files longer than buffer
+
 ### v0.0.30 alpha3
 - SD card navigation
 - fixed playback volume
