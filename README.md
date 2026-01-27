@@ -1,5 +1,8 @@
 # Changelog
 
+### v0.0.30alpha5
+- shared tapes
+
 ### v0.0.30alpha4
 - fixed loading of files longer than buffer
 
