@@ -1,5 +1,10 @@
 # Changelog
 
+### v0.0.30beta
+- fix reading some files
+- sequencer tweaks
+- metronome mix moved to Tap + Glow A
+
 ### v0.0.30alpha5
 - shared tapes
 
