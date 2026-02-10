@@ -3,7 +3,7 @@
 ### v0.0.31alpha
 - changing number of counts before start/end
 - sequencer tweaks
-(Walkthrough)[https://youtu.be/b9gRl4ppTog]
+[Walkthrough](https://youtu.be/b9gRl4ppTog)
 
 ### v0.0.30beta
 - fix reading some files
