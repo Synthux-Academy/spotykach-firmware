@@ -1,5 +1,19 @@
 # Changelog
 
+### v0.0.31alpha2
+[Walkthrough](https://youtu.be/UJcC0HDBVCw)
+- clock reset with Tap+Seq A
+- tempo tap fixed
+- set tempo with Tap+Cycle A
+- set tempo with Tap+Size A/B measuring sample
+- count-in can now be set to anything between 1 and 16
+- entering the SD card moved to Tap+Play
+- the stereo switch 3rd position is working for drift mode (makes wide as it was before by default)
+- drift mode is purple
+- internal clock intermediates are green
+- sequencer pre-count in proper color also when recording
+- fixed bug with skipping a step after recording with count-in/out
+
 ### v0.0.31alpha
 [Walkthrough](https://youtu.be/b9gRl4ppTog)
 - changing number of counts before start/end
