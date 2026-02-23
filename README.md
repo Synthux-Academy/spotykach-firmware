@@ -1,5 +1,13 @@
 # Changelog
 
+### v0.0.31beta
+- LEDs don't blink randomly.
+- tempo is detected properly.
+- size is measured properly after recording with launch quantization
+- removed 2 octaves limit on pitch in drift mode
+- external clock LED is pink
+- gate in works properly
+
 ### v0.0.31alpha2
 [Walkthrough](https://youtu.be/UJcC0HDBVCw)
 - clock reset with Tap+Seq A
