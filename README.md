@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.0alpha
+- comming soon
+
 ### v0.0.31beta
 - LEDs don't blink randomly.
 - tempo is detected properly.
