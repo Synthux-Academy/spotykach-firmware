@@ -1,7 +1,22 @@
 # Changelog
 
-### v1.0alpha
-- comming soon
+### v1.0.0alpha1
+- MIDI sync in. Switch between sources with tap+alt or alt+tap:
+  - green - internal
+  - pink - TS 4PPQN
+  - turquose - MIDI 24PPQN
+- generative panner in Slice and Reel mode:
+  - Tap+CycleB -> speed (Reel 0.5-5sec, Slice 1/16-1Bar)
+  - Tap+GlowB -> Intensity
+- tamed Grit volume + proper mix behavior
+- Flux effect more pronounced by default
+- brighter LEDs (except rings)
+- preformance dictated changes:
+  - reduced plyphony in slice mode to 3 voices (was 4)
+  - limited upper pitch to 3 octaves in all modes
+- changed modulation Cycle curve
+- Gate in LED now blinks to input
+- various smaller fixes and tweaks
 
 ### v0.0.31beta
 - LEDs don't blink randomly.
