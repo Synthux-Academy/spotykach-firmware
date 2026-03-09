@@ -8,6 +8,7 @@
 - generative panner in Slice and Reel mode:
   - Tap+CycleB -> speed (Reel 0.5-5sec, Slice 1/16-1Bar)
   - Tap+GlowB -> Intensity
+- the overall deck volume fixed so recording deck-to deck volume increased and envelope follower work as expected   
 - tamed Grit volume + proper mix behavior
 - Flux effect more pronounced by default
 - brighter LEDs (except rings)
