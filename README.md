@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.0.0alpha1_LED+Spread_test
+- ring led brightness set to 80%
+- max spread in drift mode (size knob) is limited to 7 seconds around start position.
+
 ### v1.0.0alpha1
 - MIDI sync in. Switch between sources with tap+alt or alt+tap:
   - green - internal
