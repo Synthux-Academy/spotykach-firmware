@@ -1,5 +1,14 @@
 # Changelog
 
+### v1.0.0alpha2
+- MIDI Start/Stop (can be enabled in config.txt)
+- MIDI Note On. The note number is recognized only in Slice mode
+- envelope corresponds markings on the faceplate
+- initial pitch/speed is 1x
+- inisial values adjusted
+- Grit is now engages without a click
+- initial values for flux fx, modulation adjusted
+
 ### v1.0.0alpha1_LED+Spread_test
 - ring led brightness set to 80%
 - max spread in drift mode (size knob) is limited to 7 seconds around start position.
