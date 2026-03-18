@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.0.0beta_candidate
+- fix for UI freezing
+- fix for switching from Drift to Slice/Reel
+
 ### v1.0.0alpha2
 - MIDI Start/Stop (can be enabled in config.txt)
 - MIDI Note On. The note number is recognized only in Slice mode
