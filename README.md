@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.0.0beta
+- another tweak against loading freezing
+
 ### v1.0.0beta_candidate
 - fix for UI freezing
 - fix for switching from Drift to Slice/Reel
