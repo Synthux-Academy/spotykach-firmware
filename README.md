@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.0.0beta2
+- prevents clicks when doing overdub with speed != 1x or reverse
+- shows write head
+
 ### v1.0.0beta
 - another tweak against loading freezing
 
