@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.0beta3
+- fixed overdub feedback to prevent clicks on start
+- overdub start in SLice mode respects launch quantization
+- LFO doesn't freeze at maximum values
+- gate-in reads input from LFO properly
+- deck doesn't stop when switching Slice->Drift
+- switching Drift->Slice doesn't trigger multiple voices
+- playing Reel and Drift with MIDI respects pitch
+- if config.txt is read and at least one value is recognized, FX B LEDSs lit green during startup
+
 ### v1.0.0beta2
 - prevents clicks when doing overdub with speed != 1x or reverse
 - shows write head
