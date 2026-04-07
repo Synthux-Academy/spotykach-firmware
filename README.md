@@ -1,5 +1,12 @@
 # Changelog
 
+### v1.0.0 RC
+- MIDI start/stop works properly
+- no artifacts when modulating mix and crossfade fast
+- tap button works reliable
+- switching Slice->Drift when triggering with the gate fixed
+- envelope follower decay extended
+
 ### v1.0.0beta3
 - fixed overdub feedback to prevent clicks on start
 - overdub start in SLice mode respects launch quantization
