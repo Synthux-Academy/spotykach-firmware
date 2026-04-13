@@ -1,5 +1,12 @@
 # Changelog
 
+### V1.0.0RC2
+- pre-load
+- loading cancellation
+- every 4th LED brighter in launch quantization
+- envelope follower glow has bigger range
+- arm blinks Play LED for external source and Reverse - for internal
+
 ### v1.0.0 RC
 - MIDI start/stop works properly
 - no artifacts when modulating mix and crossfade fast
