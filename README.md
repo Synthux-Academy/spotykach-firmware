@@ -1,5 +1,9 @@
 # Changelog
 
+### v1.0.0RC3+hotfix
+- fixed controls freezing when overdubbing in Slice mode
+- display write head properly
+
 ### v1.0.0RC3
 - MIDI clock out (sent permanently as long as internal clock is running or external clock in is arriving, so can convert erorrack to MIDI)
 - LFO clock sync (1/32, 1/16, 1/8, 1/4, 1/2, 1, 2, 3, 4 bars) Alt + Cycle. Stays synced until cycle is turned without Alt or reboot.
