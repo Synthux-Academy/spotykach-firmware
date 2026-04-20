@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.0RC3
+- MIDI clock out
+- LFO clock sync (1/32, 1/16, 1/8, 1/4, 1/2, 1, 2, 3, 4 bars)
+- LFO cycle knob has new curve
+- config setting to disable preload (property: pre_load, values: 0: Disabled, 1: Enabled). Enabled by default if setting is omited.
+- smoother envelope change
+- tighten clock/audio link
+
 ### V1.0.0RC2
 - pre-load
 - loading cancellation
