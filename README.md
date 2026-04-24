@@ -1,5 +1,10 @@
 # Changelog
 
+### v1.0.0RC4
+- short press on the reset button rests device
+- fixed playhead escaping the segment during overdub
+- sample loads on tapping Play as wel as on Alt+Reverse
+
 ### v1.0.0RC3+hotfix
 - fixed controls freezing when overdubbing in Slice mode
 - display write head properly
