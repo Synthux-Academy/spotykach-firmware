@@ -1,5 +1,12 @@
 # Changelog
 
+### v1.0.0RC5
+- remember last loaded/saved slot
+- back and forth tape selection with Trig/Alt+Trig
+- initial glow 0
+- initial drive less intense
+- sequencer in Slice mode polyphonic again
+
 ### v1.0.0RC4
 - short press on the reset button rests device
 - fixed playhead escaping the segment during overdub
