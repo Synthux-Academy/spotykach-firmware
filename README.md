@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.0.0
+🚀🔊 LIFT-OFF! 🔊🚀
+
 ### v1.0.0RC5
 - remember last loaded/saved slot
 - back and forth tape selection with Trig/Alt+Trig
