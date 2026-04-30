@@ -1,5 +1,8 @@
 # Changelog
 
+### v1.0.1
+- V/Oct behaves properly
+
 ### v1.0.0
 🚀🔊 LIFT-OFF! 🔊🚀
 
